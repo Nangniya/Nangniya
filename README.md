@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/axios-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" >
 
 ### I'm currently learning
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://camo.githubusercontent.com/4f91e275b1a578b168a44a4a3480fcc2c096a89a02454293d1572266e94f4eed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4e6578742e6a73266c6f676f436f6c6f723d7768697465" >
