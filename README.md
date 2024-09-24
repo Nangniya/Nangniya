@@ -13,6 +13,6 @@
 ### 🔭 Woking Projects
 - [[HEARUS]](https://github.com/TEAM-Hearus/HEARUS-REACT-FRONTEND) 
 - [[WOOSUHAM]](https://github.com/CollectingBox/client) 
-- [[CHAT-DIARY]](https://github.com/Chat-Dairy/FE) 
+- [[CHAT-DIARY]](https://github.com/Chat-Diary/FE) 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
