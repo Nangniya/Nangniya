@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 
 ### 🔭 Woking Projects
-- [HEARUS] 
-- [WOOSUHAM] 
-- [CHAT-DIARY] 
+- [[HEARUS]](https://github.com/TEAM-Hearus/HEARUS-REACT-FRONTEND) 
+- [[WOOSUHAM]](https://github.com/CollectingBox/client) 
+- [[CHAT-DIARY]](https://github.com/Chat-Dairy/FE) 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
